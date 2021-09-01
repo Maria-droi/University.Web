@@ -1,0 +1,12 @@
+C:\Users\maria\source\repos\University\University.BL\bin\Debug\University.BL.dll.config
+C:\Users\maria\source\repos\University\University.BL\bin\Debug\University.BL.dll
+C:\Users\maria\source\repos\University\University.BL\bin\Debug\University.BL.pdb
+C:\Users\maria\source\repos\University\University.BL\bin\Debug\EntityFramework.dll
+C:\Users\maria\source\repos\University\University.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\source\repos\University\University.BL\bin\Debug\EntityFramework.xml
+C:\Users\maria\source\repos\University\University.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\source\repos\University\University.BL\obj\Debug\University.BL.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\University\University.BL\obj\Debug\University.BL.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\University\University.BL\obj\Debug\University.BL.csproj.CopyComplete
+C:\Users\maria\source\repos\University\University.BL\obj\Debug\University.BL.dll
+C:\Users\maria\source\repos\University\University.BL\obj\Debug\University.BL.pdb
